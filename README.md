@@ -58,16 +58,15 @@ socks5://username:password@hostname:port
 
 ### HOW TO GET YOUR USERID
 
-login to https://app.getgrass.io
+login to [Grass](https://app.getgrass.io)
 
 press f12 go to console, then type ```allow pasting```
 
-![0001](https://github.com/im-hanzou/getgrass_bot/blob/main/pasting.JPG)
-
 then insert this code
-```localStorage.getItem('userId')```
+```bash
+localStorage.getItem('userId')
+```
 
-![0001](https://github.com/im-hanzou/getgrass_bot/blob/main/userid.JPG)
 
 ## Run Bot
 
