@@ -30,7 +30,7 @@ git clone https://github.com/Rambeboy/getgrass.git && cd getgrass
 pip install -r requirements.txt
 ```
 
-## Edit `Users.txt`
+## Edit `users.txt`
 
 ```
 nano users.txt
@@ -38,9 +38,22 @@ nano users.txt
 
 Change with your User ID
 
-## Edit `Proxy.txt`
+## Edit `proxies.txt`
 
-## How to get your User ID
+```
+nano proxies.txt
+```
+
+Change with your proxies
+
+- Example
+
+```
+http://username:password@hostname:port
+socks5://username:password@hostname:port
+```
+
+### HOW TO GET YOUR USERID
 
 login to https://app.getgrass.io
 
@@ -57,4 +70,10 @@ then insert this code
 
 ```
 python main.py
+```
+
+or
+
+```
+python3 main.py
 ```
