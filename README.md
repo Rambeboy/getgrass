@@ -1,5 +1,6 @@
 ## GRAS NODE BOT
 
+![grass](assets/img1.jpg)
 
 ## Create Accounts
 
