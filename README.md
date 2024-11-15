@@ -33,7 +33,13 @@ pip install -r requirements.txt
 nano users.txt
 ```
 
-Change with your User ID
+**Change with your User ID**
+
+Example:
+
+```bash
+i1234xxxxxxxxxxxxxx
+```
 
 ### Edit `proxies.txt`
 
