@@ -12,31 +12,35 @@
 
 - Done
 
-## Install Python and Depensi
+### SETUP & CONFIGURE BOT
 
 ```
 sudo apt install python3 python3-pip
 ```
 
-## Clone GitHub
+## Installation
 
+1. Clone project repository
 ```
 git clone https://github.com/Rambeboy/getgrass.git && cd getgrass
 ```
 
+2. Install dependencies
 ```
 pip install -r requirements.txt
 ```
 
-## Edit Users.txt
+## Edit `Users.txt`
 
 ```
 nano users.txt
 ```
 
-Change with your UserID
+Change with your User ID
 
-## How to get your UserID
+## Edit `Proxy.txt`
+
+## How to get your User ID
 
 login to https://app.getgrass.io
 
