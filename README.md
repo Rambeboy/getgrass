@@ -1,11 +1,14 @@
-# GRAS BOT NEW METHOD
+## GRAS NODE BOT
 
 
-## Create Account Jika Belum Punya
+## Create Accounts
 
-- Create Account : https://app.getgrass.io/register?referralCode=QUh03XKlJ4CTB5f
+- Create Account : [Grass](https://app.getgrass.io/register/?referralCode=_D-RVWUQOUA6vDI)
+
 - Enter Email and Password
+
 - Verifikasi Email dan Submit SOL Address
+
 - Done
 
 ## Install Python and Depensi
@@ -17,8 +20,7 @@ sudo apt install python3 python3-pip
 ## Clone GitHub
 
 ```
-git clone https://github.com/airdropinsiders/Grass-Bot-New.git
-cd Grass-Bot-New
+git clone https://github.com/Rambeboy/getgrass.git && cd getgrass
 ```
 
 ```
@@ -49,5 +51,5 @@ then insert this code
 ## Run 
 
 ```
-python3 main.py
+python main.py
 ```
