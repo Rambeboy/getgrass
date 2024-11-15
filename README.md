@@ -5,11 +5,8 @@
 ## Create Accounts
 
 - Create Account : [Grass](https://app.getgrass.io/register/?referralCode=_D-RVWUQOUA6vDI)
-
 - Enter Email and Password
-
 - Verifikasi Email dan Submit SOL Address
-
 - Done
 
 ### SETUP & CONFIGURE BOT
@@ -30,7 +27,7 @@ git clone https://github.com/Rambeboy/getgrass.git && cd getgrass
 pip install -r requirements.txt
 ```
 
-## Edit `users.txt`
+### Edit `users.txt`
 
 ```
 nano users.txt
@@ -38,15 +35,15 @@ nano users.txt
 
 Change with your User ID
 
-## Edit `proxies.txt`
+### Edit `proxies.txt`
 
 ```
 nano proxies.txt
 ```
 
-Change with your proxies
+**Change with your proxies**
 
-- Example
+Example:
 
 ```
 http://username:password@hostname:port
@@ -66,7 +63,7 @@ then insert this code
 
 ![0001](https://github.com/im-hanzou/getgrass_bot/blob/main/userid.JPG)
 
-## Run 
+## Run Bot
 
 ```
 python main.py
